@@ -1,0 +1,13 @@
+langchain
+langchain-community
+ipykernel
+python-dotenv
+beautifulsoup4
+lxml
+html2text
+aiohttp
+langchain-text-splitters
+sentence-transformers
+langchain-huggingface
+angchain_chroma
+langchain_groq
